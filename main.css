@@ -16,4 +16,13 @@ ul, li {
   list-style: none;
 };
 
+/* show-info page should be ltr and show-info button doesnt cover the main component page*/
+.info__overlay {
+  direction: ltr;
+}
+.sb-show-main {
+	margin-top: 35px;
+}
+
+
 /*# sourceMappingURL=main.css.map*/
