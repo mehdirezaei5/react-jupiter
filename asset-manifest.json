@@ -1,32 +1,33 @@
 {
   "files": {
     "main.css": "/main.css",
-    "main.js": "/main.02beae87554b642730ca.bundle.js",
+    "main.js": "/main.490d3b2d2e002fe1ef3d.bundle.js",
     "main.css.map": "/main.css.map",
-    "main.js.map": "/main.02beae87554b642730ca.bundle.js.map",
-    "runtime~main.js": "/runtime~main.02beae87554b642730ca.bundle.js",
-    "runtime~main.js.map": "/runtime~main.02beae87554b642730ca.bundle.js.map",
+    "main.js.map": "/main.490d3b2d2e002fe1ef3d.bundle.js.map",
+    "runtime~main.js": "/runtime~main.490d3b2d2e002fe1ef3d.bundle.js",
+    "runtime~main.js.map": "/runtime~main.490d3b2d2e002fe1ef3d.bundle.js.map",
     "vendors~main.css": "/vendors~main.css",
-    "vendors~main.js": "/vendors~main.02beae87554b642730ca.bundle.js",
+    "vendors~main.js": "/vendors~main.490d3b2d2e002fe1ef3d.bundle.js",
     "vendors~main.css.map": "/vendors~main.css.map",
-    "vendors~main.js.map": "/vendors~main.02beae87554b642730ca.bundle.js.map",
+    "vendors~main.js.map": "/vendors~main.490d3b2d2e002fe1ef3d.bundle.js.map",
     "iframe.html": "/iframe.html",
-    "precache-manifest.e6471ea00cc90f08e9db08afd144df44.js": "/precache-manifest.e6471ea00cc90f08e9db08afd144df44.js",
+    "precache-manifest.2131ce1ac1c2b316834dc56c0298b671.js": "/precache-manifest.2131ce1ac1c2b316834dc56c0298b671.js",
     "service-worker.js": "/service-worker.js",
     "static/media/Avatar_default.svg": "/static/media/Avatar_default.be12c9f4.svg",
     "static/media/ads-label.svg": "/static/media/ads-label.d19d1f5f.svg",
     "static/media/default-cover.jpg": "/static/media/default-cover.850a531e.jpg",
+    "static/media/filesImgs.scss": "/static/media/filesImgs.3d2475d9.woff",
     "static/media/finished-clock-label.svg": "/static/media/finished-clock-label.a361c38e.svg",
     "static/media/finished-text-label.svg": "/static/media/finished-text-label.980162ac.svg",
     "static/media/iconFont.scss": "/static/media/icomoon.980135d6.woff",
     "static/media/iranSharpFont.scss": "/static/media/iransharp_regular_web.e57daa7d.woff2",
-    "vendors~main.02beae87554b642730ca.bundle.js.LICENSE.txt": "/vendors~main.02beae87554b642730ca.bundle.js.LICENSE.txt"
+    "vendors~main.490d3b2d2e002fe1ef3d.bundle.js.LICENSE.txt": "/vendors~main.490d3b2d2e002fe1ef3d.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.02beae87554b642730ca.bundle.js",
+    "runtime~main.490d3b2d2e002fe1ef3d.bundle.js",
     "vendors~main.css",
-    "vendors~main.02beae87554b642730ca.bundle.js",
+    "vendors~main.490d3b2d2e002fe1ef3d.bundle.js",
     "main.css",
-    "main.02beae87554b642730ca.bundle.js"
+    "main.490d3b2d2e002fe1ef3d.bundle.js"
   ]
 }
